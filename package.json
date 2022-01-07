@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madrapps/jacoco-report.git"
+    "url": "git+https://github.com/fernandomoraesvr/vrjacoco-report.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Madrapps/jacoco-report/issues"
+    "url": "https://github.com/fernandomoraesvr/vrjacoco-report/issues"
   },
-  "homepage": "https://github.com/Madrapps/jacoco-report#readme",
+  "homepage": "https://github.com/fernandomoraesvr/vrjacoco-report#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
